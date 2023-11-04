@@ -1,0 +1,2 @@
+# SurperLeadDemo
+用于连接SurperLead蓝牙模式的demo，后期会加上webview组件，将扫描获取的code发送给web前端
